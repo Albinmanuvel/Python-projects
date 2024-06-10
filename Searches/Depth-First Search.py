@@ -8,7 +8,7 @@ def dfs(graph, start, visited=None):
         if next_node not in visited:
             dfs(graph, next_node, visited)
 
-# Example usage
+# Example :
 graph = {
     'A': ['B', 'C'],
     'B': ['D', 'E'],
