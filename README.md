@@ -1,6 +1,6 @@
-# Python Beginner Projects
+#  200 Beginner's Python Program
 
-This repository contains a collection of Python programs designed for beginner developers to practice and improve their coding skills. These projects cover a variety of concepts and provide an excellent opportunity to explore different areas of programming in Python.
+This repository contains a collection of Python programs designed for beginner developers to practice and improve their coding skills. They cover a variety of concepts and provide an excellent opportunity to explore different areas of programming in Python. Everyone is welcome to contribute to this repo and make an easy access for beginner level python learners and college students.
 
 ## Projects
 
