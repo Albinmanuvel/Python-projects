@@ -9,7 +9,7 @@ def typing_speed_test(passage):
 
     total_time = end_time - start_time
     words = len(user_input.split())
-    speed = words / total_time * 60  # Words per minute
+    speed = words / total_time * 60 
 
     print(f"You typed {words} words in {total_time:.2f} seconds.")
     print(f"Your typing speed is {speed:.2f} words per minute.")
