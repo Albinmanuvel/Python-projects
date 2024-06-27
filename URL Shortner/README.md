@@ -13,7 +13,7 @@ This is a basic URL shortener program written in Python. It allows users to shor
 
 - Python 3.x
 - SQLite3 (included in Python standard library)
-- * Remember to replace yourusername with your actual GitHub username in the clone URL and issues page link.
+- * Remember to replace "albinmanuvel.com" with your actual GitHub username in the clone URL and issues page link.
 
 Follow the on-screen prompts to:
 1. Shorten a URL
