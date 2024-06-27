@@ -45,7 +45,7 @@ while True:
     if choice == '1':
         original_url = input("Enter the URL to shorten: ")
         short_code = shorten_url(original_url)
-        print(f"Shortened URL: http://yourdomain.com/{short_code}")
+        print(f"Shortened URL: http://Albinmanuvel.com/{short_code}")
     
     elif choice == '2':
         short_code = input("Enter the short code: ")
