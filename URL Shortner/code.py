@@ -45,8 +45,12 @@ while True:
     if choice == '1':
         original_url = input("Enter the URL to shorten: ")
         short_code = shorten_url(original_url)
+<<<<<<< HEAD
         # enter the domain name that is ours and need to shorten it , before running change it , else the domain name will be printed as : albinmanuvel.com
         print(f"Shortened URL: http://yourdomain.com/{short_code}")
+=======
+        print(f"Shortened URL: http://Albinmanuvel.com/{short_code}")
+>>>>>>> 22376a8835691a90e25b9eea4abe9c2c40f7d2a8
     
     elif choice == '2':
         short_code = input("Enter the short code: ")
