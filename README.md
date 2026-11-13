@@ -1,6 +1,6 @@
-#  200 Beginner's Python Program
+# Beginner Python programs
 
-This repository contains a collection of Python programs designed for beginner developers to practice and improve their coding skills. They cover a variety of concepts and provide an excellent opportunity to explore different areas of programming in Python. Everyone is welcome to contribute to this repo and make an easy access for beginner level python learners and college students.
+This repository is a collection of about 20 small Python scripts (utilities, simple games, search algorithms and tiny Flask apps) from my early learning. They are meant for beginner developers to practice and improve their coding skills. They cover a variety of concepts and provide an excellent opportunity to explore different areas of programming in Python. Everyone is welcome to contribute to this repo and make an easy access for beginner level python learners and college students.
 
 ## Projects
 
@@ -32,6 +32,8 @@ This repository contains a collection of Python programs designed for beginner d
    - A program that simulates the rolling of a dice.
    - Generates a random number between 1 and 6 each time the user rolls the dice.
    - Can be used to simulate multiple dice rolls and displays the results.
+
+Also in the repo: Age Calculator, Currency Converter, Expense Tracker, Password Generator, QR code generator, Typing speed test, URL shortener, Vending machine simulator and two small Flask apps.
 
 ## Getting Started
 

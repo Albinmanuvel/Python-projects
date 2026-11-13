@@ -1,3 +1,4 @@
-
-New Text Document.txt
-temp.txt
+__pycache__/
+*.pyc
+*.db
+.DS_Store
